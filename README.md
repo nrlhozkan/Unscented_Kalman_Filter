@@ -467,7 +467,7 @@ The system successfully navigates from start position `[2, 5]` to target `[20, 2
 **File:** `robot_sim.mp4` (Generated automatically after simulation)
 
 <video controls
-      src="https://github.com/user-attachments/assets/8c260e0e-47c1-4c40-ad79-f5bc2d811460"
+      src="https://github.com/user-attachments/assets/5d13af45-bf17-49fa-a215-e3d1719bceab"
       style="max-width:100%;">
   Your browser doesn’t support HTML5 video.
 </video>
