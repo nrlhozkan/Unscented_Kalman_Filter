@@ -1,0 +1,32 @@
+# Octave/MATLAB autosave and temporary files
+*.asv
+*.autosave
+*~
+octave-workspace
+
+# Compiled files
+*.o
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.slxc
+
+# Simulink files (if not needed for main project)
+*.slx
+
+# Large data files
+*.mat
+
+# Build directories
+slprj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Keep the video but ignore if regenerated
+# robot_sim.mp4
