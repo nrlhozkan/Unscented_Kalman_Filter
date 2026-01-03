@@ -466,9 +466,10 @@ The system successfully navigates from start position `[2, 5]` to target `[20, 2
 
 **File:** `robot_sim.mp4` (Generated automatically after simulation)
 
-<video width="800" controls>
-  <source src="robot_sim.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video controls
+      src="https://github.com/nrlhozkan/Unscented_Kalman_Filter/blob/main/robot_sim.mp4"
+      style="max-width:100%;">
+  Your browser doesn’t support HTML5 video.
 </video>
 
 *Note: If video doesn't display or is corrupted, run the simulation again to regenerate it.*
