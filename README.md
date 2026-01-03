@@ -51,6 +51,14 @@ The simulation generates an animation video showing:
 
 **Generated file:** `robot_sim.mp4`
 
+> **Note:** Video generation can be time-consuming. If you see an error viewing the video on GitHub, regenerate it locally:
+> ```octave
+> pkg load statistics
+> pkg load video
+> UKF_Robot_Localization_and_Control
+> ```
+> Then commit and push the updated video file.
+
 The video demonstrates:
 - Smooth convergence of estimated state to true state
 - Shrinking uncertainty ellipses as robot approaches landmarks

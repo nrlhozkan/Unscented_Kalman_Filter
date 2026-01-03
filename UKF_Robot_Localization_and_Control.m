@@ -265,8 +265,8 @@ P_store = P_store(:,:,1:k-1);
 t = t(1:k-1);
 
 % Generate animation video (separate function)
-% fprintf('\nGenerating animation video...\n');
-% create_animation(x_store, x_est, P_store, t, landmarks, target_position, num_landmarks);
+fprintf('\nGenerating animation video...\n');
+create_animation(x_store, x_est, P_store, t, landmarks, target_position, num_landmarks);
 
 
 %% Plot Results
