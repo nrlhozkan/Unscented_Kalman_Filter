@@ -51,6 +51,10 @@ The simulation generates an animation video showing:
 
 **Generated file:** `robot_sim.mp4`
 
+**[📺 Click here to view the simulation video](robot_sim.mp4)**
+
+*(Note: Click the link above to download and view the video, or click "View raw" on the video file page)*
+
 The video demonstrates:
 - Smooth convergence of estimated state to true state
 - Shrinking uncertainty ellipses as robot approaches landmarks
