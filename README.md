@@ -51,10 +51,6 @@ The simulation generates an animation video showing:
 
 **Generated file:** `robot_sim.mp4`
 
-**[📺 Click here to view the simulation video](robot_sim.mp4)**
-
-*(Note: Click the link above to download and view the video, or click "View raw" on the video file page)*
-
 The video demonstrates:
 - Smooth convergence of estimated state to true state
 - Shrinking uncertainty ellipses as robot approaches landmarks
@@ -471,7 +467,7 @@ The system successfully navigates from start position `[2, 5]` to target `[20, 2
 **File:** `robot_sim.mp4` (Generated automatically after simulation)
 
 <video controls
-      src="https://github.com/nrlhozkan/Unscented_Kalman_Filter/blob/main/robot_sim.mp4"
+      src="https://github.com/user-attachments/assets/8c260e0e-47c1-4c40-ad79-f5bc2d811460"
       style="max-width:100%;">
   Your browser doesn’t support HTML5 video.
 </video>
